@@ -22,7 +22,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Screenshot
 
-![Desktop-Design](./design/desktop-design.jpg)
+![Desktop-Design](../huddle-landing-page-with-single-introductory-section/design/desktop-design.jpg)
 ![Mobile-Design]()
 
 ### Links
